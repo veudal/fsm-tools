@@ -1,0 +1,60 @@
+{
+  "name": "fsm-tools",
+  "version": "0.1.0",
+  "homepage": "https://dhkatz.github.io/fsm-tools",
+  "repository": "https://github.com/dhkatz/fsm-tools",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.5.0",
+    "@types/jest": "^26.0.19",
+    "@types/node": "^12.19.9",
+    "@types/react": "^16.14.2",
+    "@types/react-dom": "^16.9.10",
+    "bootstrap": "^4.5.3",
+    "graphlib": "^2.1.8",
+    "graphlib-dot": "^0.6.4",
+    "graphviz-react": "^1.1.1",
+    "postcss": "8.4.31",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts --max_old_space_size=4096 start",
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/graphlib": "^2.1.7",
+    "@types/graphlib-dot": "^0.6.1",
+    "@types/react-router-dom": "^5.1.6",
+    "gh-pages": "^3.1.0",
+    "typescript": "^3.9.10"
+  }
+}
