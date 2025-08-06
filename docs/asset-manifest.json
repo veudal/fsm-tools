@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/fsm-tools/static/js/main.ff709331.chunk.js",
+    "main.js.map": "/fsm-tools/static/js/main.ff709331.chunk.js.map",
+    "runtime-main.js": "/fsm-tools/static/js/runtime-main.9e453fed.js",
+    "runtime-main.js.map": "/fsm-tools/static/js/runtime-main.9e453fed.js.map",
+    "static/css/2.ecd857ce.chunk.css": "/fsm-tools/static/css/2.ecd857ce.chunk.css",
+    "static/js/2.89074313.chunk.js": "/fsm-tools/static/js/2.89074313.chunk.js",
+    "static/js/2.89074313.chunk.js.map": "/fsm-tools/static/js/2.89074313.chunk.js.map",
+    "index.html": "/fsm-tools/index.html",
+    "static/css/2.ecd857ce.chunk.css.map": "/fsm-tools/static/css/2.ecd857ce.chunk.css.map",
+    "static/js/2.89074313.chunk.js.LICENSE.txt": "/fsm-tools/static/js/2.89074313.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e453fed.js",
+    "static/css/2.ecd857ce.chunk.css",
+    "static/js/2.89074313.chunk.js",
+    "static/js/main.ff709331.chunk.js"
+  ]
+}
